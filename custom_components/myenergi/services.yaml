@@ -38,7 +38,7 @@ myenergi_eddi_boost:
       required: true
       selector:
         number:
-          min: 1
+          min: 0
           max: 1440
 myenergi_smart_boost:
   name: Smart boost
